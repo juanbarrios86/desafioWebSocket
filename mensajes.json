@@ -1,0 +1,26 @@
+[
+  {
+    "autor": "jbarrios@coder.uy",
+    "texto": "holaaaaa",
+    "fyh": "10/1/2022 11:01:56",
+    "id": 1
+  },
+  {
+    "autor": "juan@juan.com.uy",
+    "texto": "en que andas",
+    "fyh": "10/1/2022 11:03:22",
+    "id": 2
+  },
+  {
+    "autor": "pepe",
+    "texto": "prueba",
+    "fyh": "10/1/2022 13:11:22",
+    "id": 3
+  },
+  {
+    "autor": "alguien",
+    "texto": "prueba 4",
+    "fyh": "10/1/2022 20:30:36",
+    "id": 4
+  }
+]
